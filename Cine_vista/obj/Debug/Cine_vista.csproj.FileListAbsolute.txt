@@ -1,0 +1,12 @@
+G:\Programacion\PuntoNet\Cine\Cine_vista\bin\Debug\Cine_vista.exe.config
+G:\Programacion\PuntoNet\Cine\Cine_vista\bin\Debug\Cine_vista.exe
+G:\Programacion\PuntoNet\Cine\Cine_vista\bin\Debug\Cine_vista.pdb
+G:\Programacion\PuntoNet\Cine\Cine_vista\bin\Debug\Cine_negocio.dll
+G:\Programacion\PuntoNet\Cine\Cine_vista\bin\Debug\Cine_negocio.pdb
+G:\Programacion\PuntoNet\Cine\Cine_vista\obj\Debug\Cine_vista.csproj.AssemblyReference.cache
+G:\Programacion\PuntoNet\Cine\Cine_vista\obj\Debug\Cine_vista.Properties.Resources.resources
+G:\Programacion\PuntoNet\Cine\Cine_vista\obj\Debug\Cine_vista.csproj.GenerateResource.cache
+G:\Programacion\PuntoNet\Cine\Cine_vista\obj\Debug\Cine_vista.csproj.CoreCompileInputs.cache
+G:\Programacion\PuntoNet\Cine\Cine_vista\obj\Debug\Cine_vista.csproj.CopyComplete
+G:\Programacion\PuntoNet\Cine\Cine_vista\obj\Debug\Cine_vista.exe
+G:\Programacion\PuntoNet\Cine\Cine_vista\obj\Debug\Cine_vista.pdb

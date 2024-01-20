@@ -1,0 +1,6 @@
+G:\Programacion\PuntoNet\Cine\Cine_datos\bin\Debug\Cine_datos.dll
+G:\Programacion\PuntoNet\Cine\Cine_datos\bin\Debug\Cine_datos.pdb
+G:\Programacion\PuntoNet\Cine\Cine_datos\obj\Debug\Cine_datos.csproj.AssemblyReference.cache
+G:\Programacion\PuntoNet\Cine\Cine_datos\obj\Debug\Cine_datos.csproj.CoreCompileInputs.cache
+G:\Programacion\PuntoNet\Cine\Cine_datos\obj\Debug\Cine_datos.dll
+G:\Programacion\PuntoNet\Cine\Cine_datos\obj\Debug\Cine_datos.pdb

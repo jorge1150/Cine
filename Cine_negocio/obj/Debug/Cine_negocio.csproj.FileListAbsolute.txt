@@ -1,0 +1,9 @@
+G:\Programacion\PuntoNet\Cine\Cine_negocio\bin\Debug\Cine_negocio.dll
+G:\Programacion\PuntoNet\Cine\Cine_negocio\bin\Debug\Cine_negocio.pdb
+G:\Programacion\PuntoNet\Cine\Cine_negocio\bin\Debug\Cine_datos.dll
+G:\Programacion\PuntoNet\Cine\Cine_negocio\bin\Debug\Cine_datos.pdb
+G:\Programacion\PuntoNet\Cine\Cine_negocio\obj\Debug\Cine_negocio.csproj.AssemblyReference.cache
+G:\Programacion\PuntoNet\Cine\Cine_negocio\obj\Debug\Cine_negocio.csproj.CoreCompileInputs.cache
+G:\Programacion\PuntoNet\Cine\Cine_negocio\obj\Debug\Cine_negocio.csproj.CopyComplete
+G:\Programacion\PuntoNet\Cine\Cine_negocio\obj\Debug\Cine_negocio.dll
+G:\Programacion\PuntoNet\Cine\Cine_negocio\obj\Debug\Cine_negocio.pdb
